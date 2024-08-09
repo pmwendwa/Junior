@@ -20,7 +20,7 @@
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "choose your prefix for dreaded. To prevent errors and confusion you must set a prefix",
+      "description": "choose your prefix for junior. To prevent errors and confusion you must set a prefix",
       "value": ".",
       "required": true
     },
