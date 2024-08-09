@@ -1,4 +1,4 @@
- ***DREADED-V2***
+ ***junior bot***
 
 <div align="center">
 
