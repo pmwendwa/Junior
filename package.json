@@ -1,5 +1,5 @@
 {
-  "name": "DREADED-V2",
+  "name": "JUNIOR BUG BOT",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "index.js",
@@ -94,10 +94,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fortunatusmokaya/dreaded-v2.git"
+    "url": "git+https://github.com/pmwendwa/Junior.git"
   },
   "bugs": {
-    "url": "https://github.com/Fortunatusmokaya/dreaded-v2/issues"
+    "url": "https://github.com/pmwendwa/Junior/issues/1"
   },
-  "homepage": "https://github.com/Fortunatusmokaya/dreaded-v2#readme"
+  "homepage": "https://github.com/pmwendwa/Junior#readme"
 }
